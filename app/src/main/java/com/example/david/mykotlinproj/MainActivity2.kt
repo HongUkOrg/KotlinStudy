@@ -12,6 +12,7 @@ class MainActivity2 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main2)
 
+        //commit Test
         var min : Int = 0
         var max : Int = 0
         val resultText = "Result :"
